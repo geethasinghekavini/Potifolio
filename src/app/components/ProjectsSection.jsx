@@ -52,12 +52,12 @@ const projectsData = [
   },
   {
     id: 6,
-    title: "Zig-Zag Clothing",
-    description: "UI Design using Figma",
-    image: "/images/projects/6.png",
+    title: "Trade Credit Potral",
+    description: "Redeveloping using C#, .net 6 Core and React",
+    image: "/images/projects/7.png",
     tag: ["All", "Web"],
-    gitUrl: "https://www.behance.net/gallery/166594101/ZIG-ZAG-Clothing",
-    previewUrl: "https://www.behance.net/gallery/166594101/ZIG-ZAG-Clothing",
+    gitUrl: "",
+    previewUrl: "",
   },
 ];
 
